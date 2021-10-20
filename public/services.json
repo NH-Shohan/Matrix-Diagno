@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Doctor Care",
+    "image": "https://i.ibb.co/cQTy1QL/1.jpg",
+    "details": "A doctor may visit a patient at home to diagnose and treat the illness(es). He or she may also periodically review the home health care needs."
+  },
+  {
+    "id": 2,
+    "name": "Outdoor Checkup",
+    "image": "https://i.ibb.co/Gn5WG2k/Doctor-in-a-protective-suit-taking-a-nasal-swab-from-a-person-to-test-for-possible-corona-virus-infe.jpg",
+    "details": "Phosfluorescently simplify scalable supply chains after performance based content. Efficiently embrace scalable functionalities through inexpensive intellectual capital."
+  },
+  {
+    "id": 3,
+    "name": "Nursing Care",
+    "image": "https://i.ibb.co/xfBwNgF/Female-doctor-holding-digital-tablet-and-wearing-safety-protective-mask-while-talking-to-senior-woma.jpg",
+    "details": "The most common form of home health care is some type of nursing care depending on the person's needs. In consultation with the doctor, a registered nurse will set up a plan of care."
+  },
+  {
+    "id": 4,
+    "name": "Operation Theater Service",
+    "image": "https://i.ibb.co/wQW3NxL/Diverse-group-of-male-and-female-surgeons-in-operating-theatre-wearing-face-masks-performing-surgery.jpg",
+    "details": "Our OT complex is designed to work round the clock. The main OT complex located in the First Floor constitutes the hub center of the various surgical procedures conducted in this hospital."
+  },
+  {
+    "id": 5,
+    "name": "Medical Social Services",
+    "image": "https://i.ibb.co/1sVVsS7/Nurse-taking-care-of-old-woman-in-wheelchair-outdoor-Friendly-doctor-caring-about-elderly-disabled-w.jpg",
+    "details": "Medical social workers provide various services to the patient, including counseling and locating community resources to help the patient in his or her recovery."
+  },
+  {
+    "id": 6,
+    "name": "Emergency Care",
+    "image": "https://i.ibb.co/jrkMJs2/Modern-empty-temporary-intensive-care-emergency-room-is-ready-to-receive-patients-with-coronavirus-i.jpg",
+    "details": "A medical specialty concerned with the care and treatment of acutely ill or injured patients who need immediate medical attention."
+  },
+  {
+    "id": 7,
+    "name": "Care from Home Health Aides",
+    "image": "https://i.ibb.co/bQXTggh/Young-care-specialist-is-sitting-beside-granny-and-hugging-her-They-both-have-face-masks-because-of.jpg",
+    "details": "Home health aides can help the patient with his or her basic personal needs such as getting out of bed, walking, bathing, and dressing."
+  },
+  {
+    "id": 8,
+    "name": "Blood Test",
+    "image": "https://i.ibb.co/TrStmPH/Blood-Test-Blood-Medical-Sample-Test-Tube.jpg",
+    "details": "Blood tests have a wide range of uses and are one of the most common types of medical test."
+  },
+  {
+    "id": 9,
+    "name": "Volunteer Care",
+    "image": "https://i.ibb.co/7g4m7ct/Young-female-nurse-with-disabled-in-the-garden.jpg",
+    "details": "Volunteers from community organizations can provide basic comfort to the patient through companionship, helping with personal care, providing transportation, emotional support, and/or helping with paperwork."
+  },
+  {
+    "id": 10,
+    "name": "Pharmacy Support",
+    "image": "https://i.ibb.co/jwRhLzp/Shot-of-a-young-pharmacist-helping-an-elderly-customer-at-the-prescription-counter-The-commercial-pr.jpg",
+    "details": "Pharmacist Support is an independent, trusted charity providing a variety of support services to pharmacists, former pharmacists and pharmacy students."
+  },
+  {
+    "id": 11,
+    "name": "Nutritional Support",
+    "image": "https://i.ibb.co/RgRTx9n/Patient-Care-Nutritional-support-of-heavy-patient.jpg",
+    "details": "Dietitians can come to a patient's home to provide dietary assessments and guidance to support the treatment plan."
+  },
+  {
+    "id": 12,
+    "name": "24/7 Special Service",
+    "image": "https://i.ibb.co/1GQp7zx/24-hour-online-medical-emergency-service.jpg",
+    "details": "24/7 or 24-7 service is service that is available at our hospital. We are always for you."
+  }
+]
